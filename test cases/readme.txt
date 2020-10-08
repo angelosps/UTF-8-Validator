@@ -1,1 +1,1 @@
-Test cases provided to test the project.
+The test cases provided for testing the project.
