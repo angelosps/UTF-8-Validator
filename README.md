@@ -1,6 +1,6 @@
 # :symbols: UTF-8-Validator
 
-Project 2 for the course "Introduction to Programming" in Semester 1.  
+Project 2 for the course "Introduction to Programming" in Semester 1 @ University of Athens. 
 This project is about checking if characters passed by the input are following the UTF-8 encoding rules.  
 Reference for UTF-8 encoding: https://en.wikipedia.org/wiki/UTF-8.  
 The program checks the characters read from the input and finds how many of them are ASCII characters and how many of them are multi-byte UTF-8 characters. In case a sequence of bytes that has been read it is not valid according to UTF-8 encoding rules, the appropriate error message is returned.
