@@ -33,4 +33,13 @@ $
 
 ```
 
+### Usage:
+
+Open a terminal in the current directory and do the following for _compile_ and _run_:
+
+```bash
+$ gcc -o utf8validate utf8validate.c
+$ ./utf8validate
+```
+
 It is included the statement of the project in Greek which provides a more extensive description of the UTF-8 encoding rules and the project.
